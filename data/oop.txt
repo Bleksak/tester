@@ -1,0 +1,166 @@
+[Q] Neexistuje řazení typu
+[A] přirozené
+[A] absolutní
+[C] logické
+[Q] U dynamických kolekcí je
+[A] ArrayList třída a List výčtový typ
+[A] ArrayList rozhraní a List třída
+[C] AraryList třída a List rozhraní
+[Q] For-each a iterátor se dají použít
+[A] pro pole
+[A] pro přepravky
+[C] pro seznamy
+[Q] Při použití iterátoru dáváme přednost cyklu for před cyklem while, protože je to
+[A] typické použití for-each
+[A] rychlejší
+[C] bezpečnější konstrukce
+[Q] Iterátor je "jednoprůchodový", což znamená, že
+[A] jinou kolekci lze tímtéž iterátorem procházet až po skončení průchodu první kolekcí
+[A] se vygeneruje jednou pro všechny průchody touže kolekcí
+[C] pro každý průchod toutéž kolekcí se musí znovu inicializovat
+[Q] TreeSet(TS) se od HashSet(HS) liší tím, že
+[A] HS řadí elementy a TS ne
+[A] HS nepotřebuje konstruktor a TS ano
+[A] TS nepotřebuje konstruktor a HS ano
+[C] TS řadí elementy a HS ne
+[Q] Pro TreeSet je nezbytná metoda
+[A] equals()
+[A] hashCode()
+[C] compareTo()
+[Q] Metoda hashCode() má vliv na
+[A] funkčnost programu
+[A] velikost pole
+[C] rychlost programu
+[Q] UML diagram, který kreslíme, je diagram
+[A] případů užití
+[A] Java
+[A] UMLet
+[C] tříd
+[Q] Agregační vazbu použijeme, když zobrazuje vztah týkající se
+[A] rozhraní
+[A] dědičnosti
+[C] atributu
+[Q] Hodnotou v mapě může být
+[A] double
+[A] instance rozhraní
+[C] libovolný objekt
+[Q] Požadavek na absolutní řazení u TreeMap se předá
+[A] v iterátoru
+[A] ve for-each
+[C] v konstruktoru
+[Q] Klíčem v mapě NEmůže být
+[A] String
+[A] Integer
+[C] int
+[Q] Průchod celou mapou je možný pomocí
+[A] indexů
+[A] klíčů
+[A] hodnot
+[C] iterátorů
+[Q] HashMap využívá
+[A] přirozené řazení
+[A] absolutní řazení
+[C] jiný princip řazení
+[Q] Do mapy se vkládá
+[A] Nejdříve klíč a pak k němu hodnota
+[A] Nejdříve hodnota a pak k ní klíč
+[C] Současně klíč a hodnota
+[Q] V polymorfismu se využívá toho, že všichni účastníci implementují
+[A] stejné rozhraní
+[A] stejný výčtový typ
+[C] metodu se stejnou signaturou
+[Q] Pokud si můžeme vybrat na čem "založit" polymorfismus(tj. prvotní datový typ) použijeme
+[A] rodičovskou třídu
+[A] abstraktní třídu
+[A] výčtový typ
+[C] rozhraní
+[Q] Každý interní datový typ
+[A] je v samostatném .java souboru
+[A] musí mít přístupové právo private
+[C] se překládá do samostatného .class souboru
+[Q] Anonymní vnitřní třída se použije
+[A] jako skrytý výčtový typ
+[A] jako komplexnější příkaz for-each
+[C] jako součást příkazu, např. při implementaci rozhraní
+[Q] Metoda s proměnným typem parametrů se pozná podle
+[A] hranatých závorek
+[A] složených závorek
+[C] tří teček
+[Q] Proměnný počet parametrů musí být mezi ostatními formálními parametry
+[A] na prvním místě
+[A] speciálně oddělen
+[C] na posledním místě
+[Q] Proměnný počet parametrů souvisí s
+[A] seznamem
+[A] množinou
+[A] mapou
+[C] polem
+[Q] Funkční rozhraní
+[A] je záležitost pouze Java Core API
+[A] nemá kontrakt
+[C] můžeme vytvořit i sami
+[Q] Pro lambda výraz je charakteristické použití
+[A] ::
+[A] ...
+[A] []
+[C] ->
+[Q] Lambda výraz umožňuje předávat
+[A] data jako kód
+[A] data jako přepravku
+[A] kód jako přepravku
+[C] kód jako data
+[Q] Pro referenci na metodu je charakteristické použití
+[A] ...
+[A] ->
+[A] []
+[C] ::
+[Q] V agregovaných operacích je
+[A] nezbytné Collection
+[A] nezbytné UML
+[A] nezbytný polymorfismus
+[C] nezbytný stream
+[Q] V agregovaných operacích může průběžná operace vytvořit
+[A] int
+[A] class
+[A] enum
+[C] stream
+[Q] V agregovaných operacích může koncová opearce vytvořit
+[A] class
+[A] stream
+[A] enum
+[C] int
+[Q] Optional.empty je bezpečná náhrada za
+[A] class
+[A] lambda
+[A] seznam
+[C] null
+[Q] Primární účel třídy Optional je
+[A] zcela odstranit použití primitivních datových typů
+[A] umožnit polymorfismus
+[A] použít lambda výrazy
+[C] zabránit vyhození vyjímky
+[Q] Třídu Optional v našich programech použít
+[A] nesmíme
+[A] nemůžeme
+[A] musíme
+[C] můžeme
+[Q] Reflexe analyzuje
+[A] soubor java
+[A] kolekci java
+[A] kolekci class
+[C] soubor class
+[Q] Invokace je
+[A] okultní záležitost, které je lepší se vyhnout
+[A] možnost získání zdrojového kódu z class
+[A] náhrada konstruktoru
+[C] způsob nepřímého vyvolání implementované metody
+[Q] Při vytváření vlastní anotace, která má jen jeden parametr, pak tento parametr nazveme
+[A] default
+[A] properties
+[A] deprecated
+[C] value
+[Q] Klíčové slovo pro vytvoření vlastní anotace je
+[A] @anotation
+[A] @class
+[A] @enum
+[C] @interface

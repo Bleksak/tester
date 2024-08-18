@@ -1,0 +1,108 @@
+[Q] Autonomní konečný automat může generovat
+[A] pouze periodickou posloupnost stavů
+[A] nikdy se neopakující posloupnost stavů
+[C] posloupnost, která po konečném počtu stavů přejde na periodickou posloupnost
+[Q] Co je syntéza řeči z textu
+[A] program na hlasové ovládání textových editorů
+[A] jde o syntézu textu, který byl doplněn o prozódické prvky
+[C] jde o počítačové generování řeči s cílem převést napsanou zprávu na řečový signál
+[Q] Sériové spojení bloků s přenosy F1(s) a F2(s) má přenos
+[A] F(s) = 1 / (1 + F1(s)+F2(s))
+[A] F(s) = F1(s) + F2(s)
+[C] F(s) = F1(s)*F2(s)
+[Q] Konvoluce funkcí h(x) u(x) je definována následovně
+[A] I h(x)u(x-t)dx
+[A] I h(t)u(t-x)dx
+[C] I h(x)u(t-x)dx
+[Q] Impulsní charakteristika lineárního t-invariantního systému je
+[A] inverzní Fourierova transformace přenosu
+[A] Laplaceova transformace přenosu
+[C] derivace přechodové charakteristiky
+[Q] Mezi bodové jasové transformace nepatří
+[A] snížení kontrastu
+[A] zvýšení jasu
+[C] filtrace šumu
+[Q] Inverzní kyvadlo je ve vzpřímené poloze
+[A] na mezi stability
+[A] stabilní
+[C] nestabilní
+[Q] Produkční systém je
+[A] kybernetický systém s řízeným výstupem
+[A] systém pro produkování syntetizované řeči
+[C] systém pro reprezentaci a odvozování znalostí
+[Q] Přenos systému je
+[A] Laplaceův obraz přechodové charkteristiky
+[A] Laplaceův obraz frekvenční charakteristiky
+[C] Laplaceův obraz impulsní charakteristiky systému
+[Q] Uveďte které z následujících vyjádření lze zapsat produkčním pravidlem
+[A] když jim ukázal svoji čtyřrychlostní vrtačku s příklepem v akci, ani nedýchali
+[A] ani Pepík ani Franta, nýbrž Jarda
+[C] pakliže mi vlétne osina do nosu, kýchám
+[Q] Jak je definována jednostranná Laplaceova transformace funkce h(t)
+[A] I h(t)e^t dt
+[A] I h(t)e^(st)dt
+[C] I h(t)e^(-st)dt
+[Q] N. Wiener definoval kybernetiku jako vědu o 
+[A] zpětnovazebních obvodech a počítacích strojích
+[A] automatech a servosystémech
+[C] sdělování a řízení ve strojích a živých organismech
+[Q] Jak velkou entropii ( neurčitost ) musíte odstranit, abyste věděli, které číslo od 1 do 4096 si myslím?
+[A] 10 bytů
+[A] 10 bitů
+[C] 12 bitů
+[Q] Pro jaká reálná čísla „a“  je řešení diferenciální rovnice dx/dt = a*x omezené ( stabilní)
+[A] a>0
+[A] a<1
+[C] a<0
+[Q] Jak definoval profesor Minsky umělou inteligenci
+[A] jako vědu o vytváření myslících robotů, které po zaučení nahradí lidské bytosti především v oblastech monotonní vysoce tvůrči činností
+[A] jako vědu o komunikaci kybernetických systémů, které by vykonávali funkce, jež člověk zatím ještě nedokázal vyřešit
+[C] jako vědu o vytváření strojů nebo systémů, které budou při řešení určitého úkolu užívat takového postupu, které – kdyby ho dělal člověk – bychom považovali za projev jeho inteligence
+[Q] První průmyslově vyráběný regulátor otáček parního stroje pracoval na principu
+[A] elektromagnetické síly
+[A] dostředivé síly
+[C] odstředivé síly
+[Q] Jaký tvar má odezva lineárního t-invariantního systému v ustáleném stavu na sinusový signál
+[A] obdélníkový
+[A] pilovitý
+[C] sinusový
+[Q] Impulsní charakteristika lineárního t-invariantního systému, je odezva systému na
+[A] jednotkový skok
+[A] sinusový signál s jednotkovou amplitudou
+[C] Diraclův puls
+[Q] Jaký je účel segmentace digitálního obrazu
+[A] zařadit obrazy do tříd
+[A] odstranit z obrazu šum
+[C] oddělit objekty od pozadí
+[Q] Jednoduchá regulační smyčka se skládá z
+[A] dopředné vazby a řízené soustavy
+[A] regulátoru, dopředné vazby a řízené soustavy
+[C] regulátoru a řízené soustavy
+[Q] K čemu slouží hra Life?
+[A] simuluje autonomní nekonečný automat
+[A] simuluje neautonomní nekonečný automat
+[C] simuluje autonomní konečný automat
+[Q] Kdo je zakladatel kybernetiky
+[A] Miloš Schlegel
+[A] Albert Einstein
+[C] Norbert Wiener
+[Q] Jaký byl první průmyslový regulátor?
+[A] P Regulátor
+[A] PI Regulátor
+[C] Wattův odstředivý regulátor
+[Q] Paralelní spojení bloků s přenosy F1(s) a F2(s) má přenos
+[A] F(s) = 1 / (1 + F1(s)+F2(s))
+[A] F(s) = F1(s)*F2(s
+[C] F(s) = F1(s) + F2(s)
+[Q] Přechodová charakteristika systému je odezva systému na
+[A] sinusový signál s jednotkovou amplitudou
+[A] Diraclův puls
+[C] jednotkový skok
+[Q] Jaký je vzorec pro Fourierovu transformaci?
+[A] I h(t)e^(jwt)dt
+[A] I h(t)e^(-st)dt
+[C] I h(t)e^(-jwt)dt
+[Q] Jaké typy řízení známe?
+[A] Rychlé a pomalé
+[A] Integrační a derivační
+[C] Zpětnovazební a kompenzační
